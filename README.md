@@ -1,4 +1,5 @@
 > Streamlit SQL Inventory System
+<img width="967" height="801" alt="dashboard" src="https://github.com/user-attachments/assets/6f02e566-1f1e-473d-a5cb-a4822248de4e" />
 
 Streamlit interface for executing and monitoring SQL inventory operations.
 
@@ -25,5 +26,15 @@ Inventory operations are often managed through spreadsheets or direct database a
 
 ## Tech stack
 Python · Streamlit · MySQL · Pandas · SQL
+
+## Snapshots
+<img width="967" height="801" alt="dashboard" src="https://github.com/user-attachments/assets/374413e4-dcd7-4bc9-af12-b5706285fce0" />
+<img width="692" height="871" alt="overview_dash" src="https://github.com/user-attachments/assets/7a884755-3b5b-4d0c-9e51-1c1deaeb0498" />
+<img width="673" height="847" alt="operations1" src="https://github.com/user-attachments/assets/e60bcdcc-bc2e-4fbb-b320-88bdfa6cd60c" />
+<img width="721" height="582" alt="operations_reorder" src="https://github.com/user-attachments/assets/4946340d-42f5-48bd-ac51-1543fde70511" />
+<img width="727" height="500" alt="receive_reorder" src="https://github.com/user-attachments/assets/80574af4-3960-415d-a4b6-6ed57b69a40f" />
+
+
+
 
 
