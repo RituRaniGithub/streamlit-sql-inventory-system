@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-from inven_functions import (
+from invenfunctions import (
     connection, output, table_output,
     get_categories, get_suppliers,
     AddNewProduct, get_product_history,
@@ -158,3 +158,4 @@ if section == "Operations":
                     st.success("Reorder received and stock updated")
                 except Exception as e:
                     st.error(f"Error: {e}")
+
