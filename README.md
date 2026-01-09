@@ -10,13 +10,13 @@ Inventory operations are often managed through spreadsheets or direct database a
 * Detect low-stock products based on reorder thresholds  
 * Place and receive reorders using transactional SQL logic  
 * Track recent sales and restock activity (rolling 3-month window)  
-* View complete product-level inventory history in one place  
+* View complete product-level inventory history in one place
 
 ## How does it work?
 - Streamlit provides the user interface for inventory operations  
 - Python acts as the application layer to control database access  
 - MySQL handles transactional consistency using views and stored procedures  
-- All inventory changes are logged to maintain a full audit trail  
+- All inventory changes are logged to maintain a full audit trail
 
 ## Business impact
 - Reduces manual database interaction and operational errors  
@@ -25,5 +25,5 @@ Inventory operations are often managed through spreadsheets or direct database a
 
 ## Tech stack
 Python · Streamlit · MySQL · Pandas · SQL
-streamlit run app.py
+
 
